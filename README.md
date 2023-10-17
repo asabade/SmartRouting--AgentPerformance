@@ -24,3 +24,18 @@ CHS	conversasion health score
 -1: bad conversasion
   1: comfortable conversasion
 
+Attribute	Understanding
+wait time	customers' waiting time
+complete duration	complete duration time
+avg_response_cust	average response time for customers
+avg_response_agnt	average response time for agents
+agent_handle_time	average handling time
+no_of_turns_conversasion	the number of turns in the whole conversasion
+no_of_agents	the number of agents handling the whole case
+agent_tenure_days	agent tenure days
+resolution_days	resolution days
+customer_tenure_days	customer tenure
+working hours	average workings hours for agents
+billable hours	average billing hours for agents
+CPH	contact per hour
+
